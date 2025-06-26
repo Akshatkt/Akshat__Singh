@@ -39,7 +39,6 @@ Each system should detect, count, and visualize screw and bolt positions in stat
 - Annotated image with bounding boxes
 - Console output for detected class, confidence, and total count
 
-📄 See [`AI/README.md`](./AI/README.md) for full details and code.
 
 ---
 
@@ -60,7 +59,6 @@ Each system should detect, count, and visualize screw and bolt positions in stat
 - Histogram of object areas
 - Console output of estimated item count
 
-📄 See [`Non_AI/README.md`](./Non_AI/README.md) for full details and code.
 
 ---
 
